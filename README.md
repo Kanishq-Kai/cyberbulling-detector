@@ -229,7 +229,7 @@ VITE_API_BASE_URL=http://localhost:5000
 
 ---
 
-## 📦 Full Dependency List
+##  Full Dependency List
 
 ### Python (backend + ML)
 ```
